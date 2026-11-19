@@ -1,0 +1,14 @@
+{
+  "fall": {
+    "code": 20263,
+    "label": "Fall 2026",
+    "repo": "jenellisjuncaj/iya-enrollment-dashboard",
+    "url": "https://iyafallenrollment.netlify.app/"
+  },
+  "spring": {
+    "code": 20271,
+    "label": "Spring 2027",
+    "repo": "jenellisjuncaj/iya-spring-2027-enrollment-dashboard",
+    "url": "https://iya-spring-2027-enrollment.netlify.app/"
+  }
+}

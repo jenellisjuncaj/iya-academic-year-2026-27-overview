@@ -1364,3 +1364,10 @@
 #courseTable tbody tr:hover td,#courseTable tbody tr:hover th{box-shadow:inset 0 0 0 9999px rgba(63,74,53,.045)}
 
 #courseTable th,#courseTable td{white-space:normal}#courseTable .course-title{min-width:220px;max-width:340px;overflow-wrap:anywhere}#courseTable th button{white-space:normal}#courseTable td.num{white-space:nowrap}
+
+/* Center semester group labels and messages spanning both semester columns. */
+#courseTable thead tr:first-child th[scope='colgroup'].semester-fall,
+#courseTable thead tr:first-child th[scope='colgroup'].semester-spring,
+#courseTable thead tr:first-child th.annual { text-align: center; }
+#courseTable tbody td.semester-fall[colspan='2'],
+#courseTable tbody td.semester-spring[colspan='2'] { text-align: center; vertical-align: middle; }

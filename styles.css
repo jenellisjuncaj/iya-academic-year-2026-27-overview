@@ -1371,3 +1371,5 @@
 #courseTable thead tr:first-child th.annual { text-align: center; }
 #courseTable tbody td.semester-fall[colspan='2'],
 #courseTable tbody td.semester-spring[colspan='2'] { text-align: center; vertical-align: middle; }
+
+#courseTable .annual.annual-sections{border-left:1px solid #cfc2a1}#courseTable th.annual-sections{min-width:90px}

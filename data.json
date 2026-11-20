@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T18:10:29.844Z",
+  "generatedAt": "2026-11-20T18:17:24.820Z",
   "terms": {
     "spring": {
       "rows": [
@@ -692,7 +692,7 @@
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
       "commit": "c2dbb8dd9a139d6b8149fcbb7d80f6fcfe8ec1e3",
       "snapshotAt": "2026-11-20T17:30:18.000Z",
-      "importedAt": "2026-11-20T18:10:29.827Z",
+      "importedAt": "2026-11-20T18:17:24.678Z",
       "error": null
     },
     "fall": {
@@ -934,7 +934,7 @@
           "number": "406",
           "title": "Purpose-Driven Innovation Incubator",
           "enrolled": 41,
-          "capacity": 50,
+          "capacity": 45,
           "credits": 2
         },
         {
@@ -944,7 +944,7 @@
           "number": "406",
           "title": "Purpose-Driven Innovation Incubator",
           "enrolled": 7,
-          "capacity": 25,
+          "capacity": 10,
           "credits": 2
         },
         {
@@ -1530,8 +1530,8 @@
       ],
       "totals": {
         "enrollment": 1778,
-        "capacity": 2308,
-        "available": 530,
+        "capacity": 2288,
+        "available": 510,
         "sections": 83,
         "sch": 5711,
         "omittedSections": 25,
@@ -1539,8 +1539,8 @@
       },
       "reference": {
         "enrollment": 1778,
-        "capacity": 2308,
-        "available": 530,
+        "capacity": 2288,
+        "available": 510,
         "sections": 83,
         "sch": 5711,
         "omittedSections": 25,
@@ -1557,14 +1557,14 @@
         }
       ],
       "mismatches": [],
-      "snapshot": "November 20, 2026 - 9:58 AM PT (PST) ACAD + IDSN + PRIN update",
+      "snapshot": "November 20, 2026 - 10:16 AM PT (PST) ACAD + IDSN + PRIN update",
       "label": "Fall 2026",
       "code": 20263,
       "repo": "jenellisjuncaj/iya-enrollment-dashboard",
       "url": "https://iyafallenrollment.netlify.app/",
-      "commit": "c30c275925a72db8b9612dd6a7c08b1fb9a05af9",
-      "snapshotAt": "2026-11-20T17:58:00.000Z",
-      "importedAt": "2026-11-20T18:10:29.844Z",
+      "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
+      "snapshotAt": "2026-11-20T18:16:00.000Z",
+      "importedAt": "2026-11-20T18:17:24.820Z",
       "error": null
     }
   },

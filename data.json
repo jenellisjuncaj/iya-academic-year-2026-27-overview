@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T11:30:08.204Z",
+  "generatedAt": "2026-11-21T15:26:40.116Z",
   "terms": {
     "spring": {
       "rows": [
@@ -20,7 +20,7 @@
           "prefix": "IDSN",
           "number": "515",
           "title": "Professional Practices Residential",
-          "enrolled": 29,
+          "enrolled": 30,
           "capacity": 40,
           "credits": 2
         },
@@ -30,7 +30,7 @@
           "prefix": "IDSN",
           "number": "518",
           "title": "Innovation Practicum",
-          "enrolled": 9,
+          "enrolled": 10,
           "capacity": 20,
           "credits": 0
         },
@@ -50,7 +50,7 @@
           "prefix": "IDSN",
           "number": "522",
           "title": "Inclusive Design and Design Allyship",
-          "enrolled": 17,
+          "enrolled": 18,
           "capacity": 30,
           "credits": 2
         },
@@ -80,7 +80,7 @@
           "prefix": "IDSN",
           "number": "524",
           "title": "Physical Product Design",
-          "enrolled": 9,
+          "enrolled": 10,
           "capacity": 40,
           "credits": 4
         },
@@ -90,7 +90,7 @@
           "prefix": "IDSN",
           "number": "528",
           "title": "Using Intellectual Property Laws to Protect Your Products and Ideas                              ",
-          "enrolled": 12,
+          "enrolled": 13,
           "capacity": 25,
           "credits": 2
         },
@@ -130,8 +130,28 @@
           "prefix": "IDSN",
           "number": "539",
           "title": "Extended Reality Development",
-          "enrolled": 11,
+          "enrolled": 12,
           "capacity": 24,
+          "credits": 4
+        },
+        {
+          "id": "20271:34197",
+          "section": "34197",
+          "prefix": "IDSN",
+          "number": "542",
+          "title": "Introduction to Machine Intelligence",
+          "enrolled": 0,
+          "capacity": 30,
+          "credits": 4
+        },
+        {
+          "id": "20271:34199",
+          "section": "34199",
+          "prefix": "IDSN",
+          "number": "542",
+          "title": "Introduction to Machine Intelligence",
+          "enrolled": 0,
+          "capacity": 25,
           "credits": 4
         },
         {
@@ -170,7 +190,7 @@
           "prefix": "IDSN",
           "number": "546",
           "title": "Integrative Studio",
-          "enrolled": 13,
+          "enrolled": 14,
           "capacity": 30,
           "credits": 2
         },
@@ -190,7 +210,7 @@
           "prefix": "IDSN",
           "number": "551",
           "title": "Design Strategy for Innovation",
-          "enrolled": 26,
+          "enrolled": 25,
           "capacity": 35,
           "credits": 4
         },
@@ -320,7 +340,7 @@
           "prefix": "IDSN",
           "number": "599",
           "title": "Special Topics",
-          "enrolled": 21,
+          "enrolled": 22,
           "capacity": 28,
           "credits": 2
         },
@@ -400,7 +420,7 @@
           "prefix": "ACAD",
           "number": "181",
           "title": "Disruptive Innovation",
-          "enrolled": 24,
+          "enrolled": 26,
           "capacity": 50,
           "credits": 4
         },
@@ -430,7 +450,7 @@
           "prefix": "ACAD",
           "number": "188",
           "title": "Modeling Products with Solidworks",
-          "enrolled": 12,
+          "enrolled": 13,
           "capacity": 32,
           "credits": 2
         },
@@ -590,7 +610,7 @@
           "prefix": "ACAD",
           "number": "406",
           "title": "Purpose-Driven Innovation Incubator",
-          "enrolled": 19,
+          "enrolled": 20,
           "capacity": 40,
           "credits": 2
         },
@@ -666,33 +686,33 @@
         }
       ],
       "totals": {
-        "enrollment": 1405,
-        "capacity": 2394,
-        "available": 989,
-        "sections": 66,
-        "sch": 4683,
+        "enrollment": 1416,
+        "capacity": 2449,
+        "available": 1033,
+        "sections": 68,
+        "sch": 4709,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "reference": {
-        "enrollment": 1405,
-        "capacity": 2394,
-        "available": 989,
-        "sections": 66,
-        "sch": 4683,
+        "enrollment": 1416,
+        "capacity": 2449,
+        "available": 1033,
+        "sections": 68,
+        "sch": 4709,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "excluded": [],
       "mismatches": [],
-      "snapshot": "11/20/2026, 3:33:44 PM PST",
+      "snapshot": "11/21/2026, 7:25:06 AM PST",
       "label": "Spring 2027",
       "code": 20271,
       "repo": "jenellisjuncaj/iya-spring-2027-enrollment-dashboard",
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
-      "commit": "3583ed92ee945d3847d97a57128e4459481beb26",
-      "snapshotAt": "2026-11-20T23:33:44.000Z",
-      "importedAt": "2026-11-21T11:30:08.149Z",
+      "commit": "6f8432c53434ac7d7777738be2ed107b697ae348",
+      "snapshotAt": "2026-11-21T15:25:06.000Z",
+      "importedAt": "2026-11-21T15:26:40.106Z",
       "error": null
     },
     "fall": {
@@ -1564,7 +1584,7 @@
       "url": "https://iyafallenrollment.netlify.app/",
       "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
       "snapshotAt": "2026-11-20T18:16:00.000Z",
-      "importedAt": "2026-11-21T11:30:08.204Z",
+      "importedAt": "2026-11-21T15:26:40.116Z",
       "error": null
     }
   },

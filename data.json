@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T20:36:33.455Z",
+  "generatedAt": "2026-11-21T02:37:44.306Z",
   "terms": {
     "spring": {
       "rows": [
@@ -320,7 +320,7 @@
           "prefix": "IDSN",
           "number": "599",
           "title": "Special Topics",
-          "enrolled": 20,
+          "enrolled": 21,
           "capacity": 28,
           "credits": 2
         },
@@ -360,7 +360,7 @@
           "prefix": "ACAD",
           "number": "174",
           "title": "Innovators Forum",
-          "enrolled": 69,
+          "enrolled": 68,
           "capacity": 90,
           "credits": 2
         },
@@ -400,7 +400,7 @@
           "prefix": "ACAD",
           "number": "181",
           "title": "Disruptive Innovation",
-          "enrolled": 23,
+          "enrolled": 24,
           "capacity": 50,
           "credits": 4
         },
@@ -440,7 +440,7 @@
           "prefix": "ACAD",
           "number": "207",
           "title": "Narrative Technology and the Human Experience",
-          "enrolled": 22,
+          "enrolled": 23,
           "capacity": 32,
           "credits": 4
         },
@@ -550,7 +550,7 @@
           "prefix": "ACAD",
           "number": "309",
           "title": "Dreams and Madness: The Art of Japan's Golden Age of Animation",
-          "enrolled": 97,
+          "enrolled": 98,
           "capacity": 160,
           "credits": 4
         },
@@ -560,7 +560,7 @@
           "prefix": "ACAD",
           "number": "324",
           "title": "The Practice of Design: Ideation to Innovation",
-          "enrolled": 13,
+          "enrolled": 14,
           "capacity": 32,
           "credits": 4
         },
@@ -630,7 +630,7 @@
           "prefix": "ACAD",
           "number": "432",
           "title": "Collaborative Prototyping in Health Innovation",
-          "enrolled": 15,
+          "enrolled": 16,
           "capacity": 24,
           "credits": 4
         },
@@ -650,7 +650,7 @@
           "prefix": "ACAD",
           "number": "475B",
           "title": "The Garage Experience",
-          "enrolled": 47,
+          "enrolled": 48,
           "capacity": 54,
           "credits": 4
         },
@@ -666,33 +666,33 @@
         }
       ],
       "totals": {
-        "enrollment": 1399,
+        "enrollment": 1405,
         "capacity": 2394,
-        "available": 995,
+        "available": 989,
         "sections": 66,
-        "sch": 4659,
+        "sch": 4683,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "reference": {
-        "enrollment": 1399,
+        "enrollment": 1405,
         "capacity": 2394,
-        "available": 995,
+        "available": 989,
         "sections": 66,
-        "sch": 4659,
+        "sch": 4683,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "excluded": [],
       "mismatches": [],
-      "snapshot": "11/20/2026, 9:30:18 AM PST",
+      "snapshot": "11/20/2026, 3:33:44 PM PST",
       "label": "Spring 2027",
       "code": 20271,
       "repo": "jenellisjuncaj/iya-spring-2027-enrollment-dashboard",
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
-      "commit": "c2dbb8dd9a139d6b8149fcbb7d80f6fcfe8ec1e3",
-      "snapshotAt": "2026-11-20T17:30:18.000Z",
-      "importedAt": "2026-11-20T20:36:33.302Z",
+      "commit": "3583ed92ee945d3847d97a57128e4459481beb26",
+      "snapshotAt": "2026-11-20T23:33:44.000Z",
+      "importedAt": "2026-11-21T02:37:44.205Z",
       "error": null
     },
     "fall": {
@@ -1564,7 +1564,7 @@
       "url": "https://iyafallenrollment.netlify.app/",
       "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
       "snapshotAt": "2026-11-20T18:16:00.000Z",
-      "importedAt": "2026-11-20T20:36:33.455Z",
+      "importedAt": "2026-11-21T02:37:44.306Z",
       "error": null
     }
   },

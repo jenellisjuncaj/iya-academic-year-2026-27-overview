@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T00:32:13.119Z",
+  "generatedAt": "2026-11-22T08:20:18.403Z",
   "terms": {
     "fall": {
       "rows": [
@@ -871,9 +871,8 @@
       "url": "https://iyafallenrollment.netlify.app/",
       "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
       "snapshotAt": "2026-11-20T18:16:00.000Z",
-      "importedAt": "2026-11-21T15:26:40.116Z",
-      "error": "Unable to import latest semester data. Last successful snapshot is retained when available.",
-      "attemptedAt": "2026-11-22T00:32:13.118Z"
+      "importedAt": "2026-11-22T08:20:18.363Z",
+      "error": null
     },
     "spring": {
       "rows": [
@@ -1585,13 +1584,9 @@
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
       "commit": "6f8432c53434ac7d7777738be2ed107b697ae348",
       "snapshotAt": "2026-11-21T15:25:06.000Z",
-      "importedAt": "2026-11-21T15:26:40.106Z",
-      "error": "Unable to import latest semester data. Last successful snapshot is retained when available.",
-      "attemptedAt": "2026-11-22T00:32:13.119Z"
+      "importedAt": "2026-11-22T08:20:18.403Z",
+      "error": null
     }
   },
-  "errors": [
-    "fall: HTTP 403",
-    "spring: HTTP 403"
-  ]
+  "errors": []
 }

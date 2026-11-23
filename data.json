@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T15:04:43.650Z",
+  "generatedAt": "2026-11-23T19:08:02.364Z",
   "terms": {
     "spring": {
       "rows": [
@@ -70,7 +70,7 @@
           "prefix": "IDSN",
           "number": "523",
           "title": "Product Design for User Experience",
-          "enrolled": 34,
+          "enrolled": 35,
           "capacity": 40,
           "credits": 4
         },
@@ -140,7 +140,7 @@
           "prefix": "IDSN",
           "number": "542",
           "title": "Introduction to Machine Intelligence",
-          "enrolled": 0,
+          "enrolled": 1,
           "capacity": 30,
           "credits": 4
         },
@@ -160,7 +160,7 @@
           "prefix": "IDSN",
           "number": "543",
           "title": "Augmented Intelligence",
-          "enrolled": 23,
+          "enrolled": 22,
           "capacity": 32,
           "credits": 4
         },
@@ -320,7 +320,7 @@
           "prefix": "IDSN",
           "number": "599",
           "title": "Special Topics",
-          "enrolled": 10,
+          "enrolled": 9,
           "capacity": 40,
           "credits": 4
         },
@@ -340,7 +340,7 @@
           "prefix": "IDSN",
           "number": "599",
           "title": "Special Topics",
-          "enrolled": 22,
+          "enrolled": 21,
           "capacity": 28,
           "credits": 2
         },
@@ -350,7 +350,7 @@
           "prefix": "IDSN",
           "number": "599",
           "title": "Special Topics",
-          "enrolled": 11,
+          "enrolled": 12,
           "capacity": 30,
           "credits": 4
         },
@@ -390,7 +390,7 @@
           "prefix": "ACAD",
           "number": "176",
           "title": "Rapid Visualization",
-          "enrolled": 20,
+          "enrolled": 19,
           "capacity": 32,
           "credits": 4
         },
@@ -420,7 +420,7 @@
           "prefix": "ACAD",
           "number": "181",
           "title": "Disruptive Innovation",
-          "enrolled": 26,
+          "enrolled": 35,
           "capacity": 50,
           "credits": 4
         },
@@ -510,7 +510,7 @@
           "prefix": "ACAD",
           "number": "260",
           "title": "Introduction to Healthcare Innovation",
-          "enrolled": 28,
+          "enrolled": 27,
           "capacity": 32,
           "credits": 4
         },
@@ -530,7 +530,7 @@
           "prefix": "ACAD",
           "number": "280",
           "title": "Information Design",
-          "enrolled": 17,
+          "enrolled": 18,
           "capacity": 24,
           "credits": 4
         },
@@ -540,7 +540,7 @@
           "prefix": "ACAD",
           "number": "281",
           "title": "Constructing Experiences",
-          "enrolled": 32,
+          "enrolled": 33,
           "capacity": 64,
           "credits": 4
         },
@@ -560,7 +560,7 @@
           "prefix": "ACAD",
           "number": "307",
           "title": "Punk, Counterculture, and the Do-It-Yourself (DIY) Ethos",
-          "enrolled": 21,
+          "enrolled": 22,
           "capacity": 93,
           "credits": 4
         },
@@ -570,7 +570,7 @@
           "prefix": "ACAD",
           "number": "309",
           "title": "Dreams and Madness: The Art of Japan's Golden Age of Animation",
-          "enrolled": 98,
+          "enrolled": 97,
           "capacity": 160,
           "credits": 4
         },
@@ -600,7 +600,7 @@
           "prefix": "ACAD",
           "number": "360",
           "title": "Design Strategy: Problem Solving for Organizations",
-          "enrolled": 68,
+          "enrolled": 69,
           "capacity": 90,
           "credits": 4
         },
@@ -620,7 +620,7 @@
           "prefix": "ACAD",
           "number": "406",
           "title": "Purpose-Driven Innovation Incubator",
-          "enrolled": 11,
+          "enrolled": 12,
           "capacity": 25,
           "credits": 2
         },
@@ -650,7 +650,7 @@
           "prefix": "ACAD",
           "number": "432",
           "title": "Collaborative Prototyping in Health Innovation",
-          "enrolled": 16,
+          "enrolled": 17,
           "capacity": 24,
           "credits": 4
         },
@@ -686,33 +686,33 @@
         }
       ],
       "totals": {
-        "enrollment": 1416,
+        "enrollment": 1428,
         "capacity": 2449,
-        "available": 1033,
+        "available": 1021,
         "sections": 68,
-        "sch": 4709,
+        "sch": 4757,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "reference": {
-        "enrollment": 1416,
+        "enrollment": 1428,
         "capacity": 2449,
-        "available": 1033,
+        "available": 1021,
         "sections": 68,
-        "sch": 4709,
+        "sch": 4757,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "excluded": [],
       "mismatches": [],
-      "snapshot": "11/21/2026, 7:25:06 AM PST",
+      "snapshot": "11/23/2026, 11:06:40 AM PST",
       "label": "Spring 2027",
       "code": 20271,
       "repo": "jenellisjuncaj/iya-spring-2027-enrollment-dashboard",
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
-      "commit": "6f8432c53434ac7d7777738be2ed107b697ae348",
-      "snapshotAt": "2026-11-21T15:25:06.000Z",
-      "importedAt": "2026-11-23T15:04:43.589Z",
+      "commit": "400d4660fb0eb645b88ecb465da994263d046549",
+      "snapshotAt": "2026-11-23T19:06:40.000Z",
+      "importedAt": "2026-11-23T19:08:02.341Z",
       "error": null
     },
     "fall": {
@@ -1584,7 +1584,7 @@
       "url": "https://iyafallenrollment.netlify.app/",
       "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
       "snapshotAt": "2026-11-20T18:16:00.000Z",
-      "importedAt": "2026-11-23T15:04:43.650Z",
+      "importedAt": "2026-11-23T19:08:02.364Z",
       "error": null
     }
   },

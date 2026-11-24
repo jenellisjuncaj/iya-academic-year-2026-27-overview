@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T02:26:54.366Z",
+  "generatedAt": "2026-11-24T14:02:29.368Z",
   "terms": {
     "fall": {
       "rows": [
@@ -871,7 +871,7 @@
       "url": "https://iyafallenrollment.netlify.app/",
       "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
       "snapshotAt": "2026-11-20T18:16:00.000Z",
-      "importedAt": "2026-11-24T02:26:54.307Z",
+      "importedAt": "2026-11-24T14:02:29.226Z",
       "error": null
     },
     "spring": {
@@ -1584,7 +1584,7 @@
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
       "commit": "400d4660fb0eb645b88ecb465da994263d046549",
       "snapshotAt": "2026-11-23T19:06:40.000Z",
-      "importedAt": "2026-11-24T02:26:54.366Z",
+      "importedAt": "2026-11-24T14:02:29.368Z",
       "error": null
     }
   },

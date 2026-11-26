@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T19:29:20.271Z",
+  "generatedAt": "2026-11-26T02:57:08.476Z",
   "terms": {
     "spring": {
       "rows": [
@@ -140,7 +140,7 @@
           "prefix": "IDSN",
           "number": "542",
           "title": "Introduction to Machine Intelligence",
-          "enrolled": 2,
+          "enrolled": 3,
           "capacity": 30,
           "credits": 4
         },
@@ -180,7 +180,7 @@
           "prefix": "IDSN",
           "number": "546",
           "title": "Integrative Studio",
-          "enrolled": 14,
+          "enrolled": 15,
           "capacity": 30,
           "credits": 2
         },
@@ -300,7 +300,7 @@
           "prefix": "IDSN",
           "number": "599",
           "title": "Special Topics",
-          "enrolled": 31,
+          "enrolled": 32,
           "capacity": 32,
           "credits": 2
         },
@@ -410,7 +410,7 @@
           "prefix": "ACAD",
           "number": "181",
           "title": "Disruptive Innovation",
-          "enrolled": 39,
+          "enrolled": 41,
           "capacity": 50,
           "credits": 4
         },
@@ -460,7 +460,7 @@
           "prefix": "ACAD",
           "number": "222",
           "title": "Introduction to Machine Intelligence",
-          "enrolled": 10,
+          "enrolled": 11,
           "capacity": 24,
           "credits": 4
         },
@@ -676,33 +676,33 @@
         }
       ],
       "totals": {
-        "enrollment": 1441,
+        "enrollment": 1447,
         "capacity": 2424,
-        "available": 983,
+        "available": 977,
         "sections": 67,
-        "sch": 4806,
+        "sch": 4826,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "reference": {
-        "enrollment": 1441,
+        "enrollment": 1447,
         "capacity": 2424,
-        "available": 983,
+        "available": 977,
         "sections": 67,
-        "sch": 4806,
+        "sch": 4826,
         "omittedSections": 3,
         "omittedEnrollment": 3
       },
       "excluded": [],
       "mismatches": [],
-      "snapshot": "11/24/2026, 7:38:51 PM PST",
+      "snapshot": "11/25/2026, 4:51:56 PM PST",
       "label": "Spring 2027",
       "code": 20271,
       "repo": "jenellisjuncaj/iya-spring-2027-enrollment-dashboard",
       "url": "https://iya-spring-2027-enrollment.netlify.app/",
-      "commit": "921500ce00b64afed48c8174f802dbffb5af596f",
-      "snapshotAt": "2026-11-25T03:38:51.000Z",
-      "importedAt": "2026-11-25T19:29:20.263Z",
+      "commit": "17e7cafd04073d8dea5f3c5e0ec9640a1bb172e4",
+      "snapshotAt": "2026-11-26T00:51:56.000Z",
+      "importedAt": "2026-11-26T02:57:08.440Z",
       "error": null
     },
     "fall": {
@@ -1574,7 +1574,7 @@
       "url": "https://iyafallenrollment.netlify.app/",
       "commit": "22693366631682bad37f9f40bf98ec5fecc959f6",
       "snapshotAt": "2026-11-20T18:16:00.000Z",
-      "importedAt": "2026-11-25T19:29:20.271Z",
+      "importedAt": "2026-11-26T02:57:08.476Z",
       "error": null
     }
   },

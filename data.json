@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T22:29:14.723Z",
+  "generatedAt": "2026-11-27T05:13:19.631Z",
   "terms": {
     "fall": {
       "rows": [
@@ -873,7 +873,7 @@
       "snapshotAt": "2026-11-20T18:16:00.000Z",
       "importedAt": "2026-11-26T20:40:12.395Z",
       "error": "Unable to import latest semester data. Last successful snapshot is retained when available.",
-      "attemptedAt": "2026-11-26T22:29:14.722Z"
+      "attemptedAt": "2026-11-27T05:13:19.630Z"
     },
     "spring": {
       "rows": [
@@ -1577,7 +1577,7 @@
       "snapshotAt": "2026-11-26T20:28:04.000Z",
       "importedAt": "2026-11-26T20:40:12.202Z",
       "error": "Unable to import latest semester data. Last successful snapshot is retained when available.",
-      "attemptedAt": "2026-11-26T22:29:14.723Z"
+      "attemptedAt": "2026-11-27T05:13:19.631Z"
     }
   },
   "errors": [
